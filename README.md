@@ -24,5 +24,5 @@ and Incident Response (DFIR) investigations.
 - Malware discovery
 
 ## Author
-Emmanuel Olawale Oyemosu
+Emmanuel Oyemosu
 
